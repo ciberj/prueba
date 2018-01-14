@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elboletaire/crawler": "dev-master",
+        "slim/slim": "^3.0"
+    }
+}
